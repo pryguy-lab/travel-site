@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/pryguy-lab/travel-site/issues"
   },
-  "homepage": "https://github.com/pryguy-lab/travel-site#readme"
+  "homepage": "https://github.com/pryguy-lab/travel-site#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "normalize.css": "^8.0.1"
+  }
 }
