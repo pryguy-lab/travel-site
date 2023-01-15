@@ -1,10 +1,4 @@
-body{
-    color: green;
-}
-$mainBlue:#2f5572;
+@import 'normalize.css';
+@import 'base/_global';
+@import 'modules/_large-hero';
 
-.large-hero{
-    h2{
-        color:$mainBlue;
-    }
-}
