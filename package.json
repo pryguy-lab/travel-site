@@ -19,7 +19,8 @@
   "homepage": "https://github.com/pryguy-lab/travel-site#readme",
   "dependencies": {
     "lodash": "^4.17.21",
-    "normalize.css": "^8.0.1"
+    "normalize.css": "^8.0.1",
+    "postcss-mixins": "^9.0.4"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.13",
