@@ -3,9 +3,17 @@
     padding-left: 18px;  
     padding-right: 18px; 
     margin-right: auto;
+    margin-left: auto;
+    max-width: 1236px;
+    
     &--medium{
         max-width: 976px;
     }
+    &--narrow{
+        max-width: 470px;
+    }
+    
+
     &--no-padding-until-medium{
         padding-right: 0;
         padding-left: 0;
