@@ -23,7 +23,7 @@ class ClientArea {
       })
       .catch(() => {
         this.contentArea.innerHTML = `<p class='clinet-area__error>That secret phrase is not correct. Try again.</p>`;
-        this.field = "";
+        this.field.value = "";
         this.field.focus();
       });
   }
